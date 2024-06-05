@@ -1,4 +1,4 @@
-#### Programmer and a free time photographer
+#### Programmer and photographer
 Here I post projects I have 
 
 Skills: C, C++, Java, JavaScript, HTML, CSS, MySQL
