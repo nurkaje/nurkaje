@@ -9,7 +9,7 @@ Skills: C, C++, Java, JavaScript, HTML, CSS, MySQL
 - ⚡ Fun fact: I did˙nt choose this occupation, it chose me 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurkaje)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](youtube.com/dinoxtech)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurkaje) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurkaje)](https://github.com/anuraghazra/github-readme-stats)
 
