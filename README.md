@@ -1,65 +1,79 @@
-# Hi, I'm Nurka 👋
-
-#### Programmer and photographer
-
-I enjoy building practical projects, learning new technologies, and combining programming with creativity.  
-On this GitHub profile, I share my coding projects, experiments, and learning progress.
-
-🌐 Portfolio: [nurkaje.github.io](https://nurkaje.github.io)  
-📸 I also enjoy photography and visual design.
+```txt
+Name:        Nurka
+Focus:       Programming, web projects, creative coding
+Also into:   Photography, design, cars, and visual storytelling
+Goal:        Build projects that look good, work well, and teach me something new
+```
 
 ---
 
-## 🛠️ Skills
+## What I do
 
-**Programming languages:**  
-C, C++, Java, JavaScript
+I build small but meaningful projects while learning software development step by step.
+Some projects are made for university, some for practice, and some just because I had an idea and wanted to see if I could make it real.
 
-**Web technologies:**  
-HTML, CSS
+My work usually connects:
 
-**Databases:**  
-MySQL
-
-**Other interests:**  
-Photography, UI design, game development, and creative coding
+```txt
+code + design + problem solving + creativity
+```
 
 ---
 
-## 🚀 Featured Projects
+## Tech I use
+
+```txt
+Languages:     C · C++ · Java · JavaScript · Python
+Web:           HTML · CSS
+Database:      MySQL
+Tools:         Git · GitHub · VS Code
+Interests:     UI design · data visualization · creative coding · photography
+```
+
+---
+
+## Selected Projects
 
 ### 🎲 Čovječe ne ljuti se
-A digital version of the classic board game, built as one of my programming projects.
+
+A digital version of the classic board game.
+Built as a programming project with focus on game logic, player movement, and simple interaction.
+
+`game logic` `student project` `classic board game`
+
+---
 
 ### 🌌 Night Sky Creator
-A Python project for generating realistic night sky posters using star data, constellations, and custom rendering.
 
-### 🌐 Personal Portfolio Website
-My personal website where I present my projects, skills, and work.
+A Python project that generates realistic night sky posters using star data, constellations, and custom rendering.
 
----
-
-## 📚 Currently Learning
-
-- New programming technologies
-- Better web design
-- Software development practices
-- Git and GitHub workflow
+`python` `astronomy` `image generation` `creative coding`
 
 ---
 
-## 🤝 Collaboration
+## My style
 
-I am open to collaborating on interesting projects, especially web apps, small games, student projects, and creative programming ideas.
+I like projects that are:
+
+```txt
+[✓] clean
+[✓] practical
+[✓] understandable
+[✓] visually polished
+[✓] not overcomplicated
+```
 
 ---
 
-## 📫 Contact
+## Contact
 
-Feel free to contact me through GitHub or my social media accounts.
+Feel free to reach out through GitHub or my social media accounts.
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-Programming is fun when you know what you're doing.
+### "Programming is fun when you know what you're doing."
+
+</div>
+```
